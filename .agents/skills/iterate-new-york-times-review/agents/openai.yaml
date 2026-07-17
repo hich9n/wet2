@@ -1,0 +1,4 @@
+interface:
+  display_name: "چرخهٔ بازنویسی نیویورک تایمز"
+  short_description: "ممیزی، ایشوسازی، بازنویسی و کامیت مرحله‌ای رمان"
+  default_prompt: "با $iterate-new-york-times-review دست‌نوشتهٔ موجود را در پنج دور ممیزی کن و هر ایشو را جدا اصلاح و کامیت کن."
