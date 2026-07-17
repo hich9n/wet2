@@ -1,0 +1,4 @@
+interface:
+  display_name: "نقد نیویورک تایمز"
+  short_description: "نقد توسعه‌ای سخت‌گیرانهٔ رمان شاهد خیس"
+  default_prompt: "با $new-york-times-review دست‌نوشتهٔ رمان را بی‌تعارف و در سطح نشر حرفه‌ای نقد کن."
