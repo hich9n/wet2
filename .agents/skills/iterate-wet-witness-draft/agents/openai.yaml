@@ -1,0 +1,4 @@
+interface:
+  display_name: "چرخهٔ بازبینی شاهد خیس"
+  short_description: "سه دور نقد و بازنویسی فصل‌ها"
+  default_prompt: "Use $iterate-wet-witness-draft to review and revise the written Wet Witness draft in three cycles."
