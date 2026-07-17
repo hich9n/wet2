@@ -1,0 +1,4 @@
+interface:
+  display_name: "نقد شاهد خیس"
+  short_description: "نقد پیرنگ، تم، شخصیت و پیوستگی رمان"
+  default_prompt: "از $review-wet-witness-draft برای نقد یک فصل یا ممیزی دست‌نوشتهٔ «شاهد خیس» استفاده کن."
