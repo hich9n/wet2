@@ -1,0 +1,4 @@
+interface:
+  display_name: "نگارش فصل شاهد خیس"
+  short_description: "نگارش یا بازنویسی عمیق دقیقاً یک واحد"
+  default_prompt: "از $write-wet-witness-chapter برای نگارش یا بازنویسی کامل یک واحد مشخص از «شاهد خیس» استفاده کن."

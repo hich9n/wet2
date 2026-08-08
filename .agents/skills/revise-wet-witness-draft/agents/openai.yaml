@@ -1,0 +1,4 @@
+interface:
+  display_name: "بازنگری شاهد خیس"
+  short_description: "چرخهٔ ایشومحور بازنویسی، اعتبارسنجی و کامیت"
+  default_prompt: "از $revise-wet-witness-draft برای تبدیل یک مشکل پذیرفته‌شده به بازنویسی اعتبارسنجی‌شده و کامیت مستقل استفاده کن."
