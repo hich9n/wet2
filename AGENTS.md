@@ -8,7 +8,7 @@
 - `docs/story/story.md`: هسته، مسیر کلی و پایان.
 - `docs/story/world.md`: قواعد جهان و سازوکارهای علّی.
 - `docs/story/characters.md`: عاملیت، روابط و قوس شخصیت‌ها.
-- `docs/story/plot.md`: معماری جاری ۲۶ واحد.
+- `docs/story/plot.md`: معماری جاری ۲۷ واحد.
 - `docs/story/style.md`: قرارداد نثر و اجرای صحنه.
 - `docs/story/revision-contract.md`: قفل‌ها و فرایند تغییر.
 - `docs/work/revision-ledger.md`: تنها حافظهٔ فعال بازنگری.
